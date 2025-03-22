@@ -1,2 +1,2 @@
 console.log("sever started");
-console.log("adding Express js")
+console.log("adding Express js and node")
